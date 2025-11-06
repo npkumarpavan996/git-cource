@@ -1,2 +1,3 @@
 add and remote users
 change the roles
+manage and database
